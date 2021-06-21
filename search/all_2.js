@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['calculateflick_5',['CalculateFlick',['../d7/d12/class_swipe_input.html#a1e627a80d2d7df15c323729201e88708',1,'SwipeInput']]],
-  ['createinstance_6',['CreateInstance',['../da/d2d/class_butt_1_1_mono_singleton.html#adcada7a6a33ffafc2636241c49dd9ac7',1,'Butt::MonoSingleton']]]
+  ['detachcam_2',['DetachCam',['../dc/d5e/class_gun_game_1_1_inventory_1_1_player_inventory.html#a81757c51525b4829f87e70b4411c15b1',1,'GunGame::Inventory::PlayerInventory']]],
+  ['dropweapon_3',['DropWeapon',['../dc/d5e/class_gun_game_1_1_inventory_1_1_player_inventory.html#acaf9855a2c44fcffd4b96f7a048723f1',1,'GunGame::Inventory::PlayerInventory']]]
 ];

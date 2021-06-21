@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['axis_0',['Axis',['../d7/d39/class_butt_1_1_mobile_1_1_joystick_input.html#a6a4298a402f6352f22b36094a320c8d6',1,'Butt::Mobile::JoystickInput']]]
+  ['attachcam_0',['AttachCam',['../dc/d5e/class_gun_game_1_1_inventory_1_1_player_inventory.html#a2778e5892c8a2ef599e07793181fea25',1,'GunGame::Inventory::PlayerInventory']]]
 ];

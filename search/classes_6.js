@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['tagattribute_66',['TagAttribute',['../da/dcf/class_butt_1_1_tag_attribute.html',1,'Butt']]],
-  ['tagdrawer_67',['TagDrawer',['../da/d91/class_butt_1_1_tag_drawer.html',1,'Butt']]],
-  ['trigger_68',['Trigger',['../da/d2a/class_butt_1_1_trigger.html',1,'Butt']]]
+  ['sample_44',['Sample',['../d4/d72/class_sample.html',1,'']]],
+  ['semiauto_45',['SemiAuto',['../d6/d3e/class_gun_game_1_1_guns_1_1_semi_auto.html',1,'GunGame::Guns']]]
 ];

@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['ai_71',['AI',['../df/d6d/namespace_butt_1_1_a_i.html',1,'Butt']]],
-  ['butt_72',['Butt',['../d8/d33/namespace_butt.html',1,'']]],
-  ['loot_73',['Loot',['../d6/d90/namespace_butt_1_1_loot.html',1,'Butt']]],
-  ['mobile_74',['Mobile',['../dc/d66/namespace_butt_1_1_mobile.html',1,'Butt']]]
+  ['gungame_46',['GunGame',['../d4/d61/namespace_gun_game.html',1,'']]],
+  ['guns_47',['Guns',['../d9/d7e/namespace_gun_game_1_1_guns.html',1,'GunGame']]],
+  ['inventory_48',['Inventory',['../d6/d6a/namespace_gun_game_1_1_inventory.html',1,'GunGame']]]
 ];
